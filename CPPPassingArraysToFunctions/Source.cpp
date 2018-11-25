@@ -4,7 +4,7 @@
 
 using namespace std;
 
-// This is the prototype. You don't have to have this. You can just put the function above the main
+// This is the prototype. You don't have to have this. You can just put the function above the main 
 void TotalPrices(int TheArray[], int SizeOfArray);
 
 
